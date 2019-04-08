@@ -1,2 +1,2 @@
-# testp2preadme
-Public test readme
+Тестовое задание с **жиром** и *курсивом*. 
+И ссылка на наш п2п [bitzlato.com/p2p](bitzlato.com/p2p)
